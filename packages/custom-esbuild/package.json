@@ -41,7 +41,7 @@
   "dependencies": {
     "@angular-builders/common": "workspace:*",
     "@angular-devkit/architect": ">=0.1800.0 < 0.1900.0",
-    "@angular-devkit/build-angular": "^18.0.0",
+    "@angular-devkit/build-angular": "^18.2.18",
     "@angular-devkit/core": "^18.0.0"
   },
   "peerDependencies": {

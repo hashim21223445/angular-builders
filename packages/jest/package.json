@@ -46,7 +46,7 @@
     "@angular-devkit/architect": ">=0.1800.0 < 0.1900.0",
     "@angular-devkit/core": "^18.0.0",
     "jest-preset-angular": "14.1.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.23"
   },
   "peerDependencies": {
     "@angular-devkit/build-angular": "^18.0.0",

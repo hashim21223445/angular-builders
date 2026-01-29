@@ -42,7 +42,7 @@
     "ci": "./scripts/ci.sh"
   },
   "dependencies": {
-    "@angular-builders/common": "workspace:*",
+    "@angular-builders/common": "1.0.1",
     "@angular-devkit/architect": ">=0.1800.0 < 0.1900.0",
     "@angular-devkit/core": "^18.0.0",
     "jest-preset-angular": "14.1.1",

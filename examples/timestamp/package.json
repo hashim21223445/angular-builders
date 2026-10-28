@@ -14,13 +14,13 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "18.0.6",
-    "@angular/common": "18.0.6",
-    "@angular/compiler": "19.2.18",
-    "@angular/core": "19.2.18",
+    "@angular/common": "20.3.34",
+    "@angular/compiler": "20.3.27",
+    "@angular/core": "20.3.28",
     "@angular/forms": "18.0.6",
     "@angular/platform-browser": "18.0.6",
     "@angular/platform-browser-dynamic": "18.0.6",
-    "@angular/router": "18.0.6",
+    "@angular/router": "20.3.33",
     "rxjs": "7.8.1",
     "tslib": "2.6.3",
     "zone.js": "0.14.7"
